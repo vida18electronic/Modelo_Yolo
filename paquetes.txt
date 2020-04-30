@@ -1,0 +1,16 @@
+numpy
+opencv-python
+openpyxl
+pandas
+protobuf
+python-dateutil
+pytz
+scikit-learn
+scipy
+six
+tensorflow
+tqdm
+XlsxWriter
+et-xmlfile
+jdcal
+joblib
